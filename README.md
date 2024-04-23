@@ -1,4 +1,5 @@
 # photobackr
+Easy backup CLI for your Synology NAS.
 
 ## Setup
 
@@ -18,3 +19,6 @@ To run photobackr, use the following command:
 ```
 go run main.go backup --source <source-dir> --destination <destination-dir>
 ```
+
+
+Note: This is still a work in progress (WIP)!
